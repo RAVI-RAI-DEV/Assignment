@@ -10,7 +10,9 @@ git clone https://github.com/your-username/your-repository.git
 
 3 :Create a local.properties file in the root directory of the project and add the following line:
 
-unsplash_access_key=YOUR_UNSPLASH_ACCESS_KEY 4 : Replace YOUR_UNSPLASH_ACCESS_KEY with your actual Unsplash access key. You can obtain an access key by signing up at Unsplash Developer and creating a new application.
+unsplash_access_key=YOUR_UNSPLASH_ACCESS_KEY
+
+4 : Replace YOUR_UNSPLASH_ACCESS_KEY with your actual Unsplash access key. You can obtain an access key by signing up at Unsplash Developer and creating a new application.
 
 5 : Build and run the app on an Android emulator or a physical device.
 
