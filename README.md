@@ -12,6 +12,8 @@ Instructions to Run the App
 3 :Create a local.properties file in the root directory of the project and add the following line:
 
    unsplash_access_key=YOUR_UNSPLASH_ACCESS_KEY
+
+   
 4 : Replace YOUR_UNSPLASH_ACCESS_KEY with your actual Unsplash access key.
     You can obtain an access key by signing up at Unsplash Developer and creating a new application.
 
